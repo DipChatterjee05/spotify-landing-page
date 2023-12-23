@@ -1,6 +1,4 @@
-# Project Name
-
-### Spotify Landing Page
+# Spotify Premium Landing Page
 
 ## Project Description
 
@@ -9,3 +7,7 @@ The landing page is designed to present Spotify's Premium subscription plans in 
 ## Key Features
 
 The landing page isn't a functional app, it effectively communicates the value proposition of Spotify Premium through its design, layout, responsiveness, and content organization, encouraging users to explore and captivates users through its visually appealing design.
+
+## Technologies Used
+
+HTML5, CSS3
