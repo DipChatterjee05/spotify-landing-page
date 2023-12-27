@@ -10,4 +10,5 @@ The landing page isn't a functional app, it effectively communicates the value p
 
 ## Technologies Used
 
-HTML5, CSS3
+- HTML5
+- CSS3
